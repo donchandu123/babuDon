@@ -7,6 +7,7 @@ public class AddController {
 
 		AddController add=new AddController();
 
+		String name="Hello I am Shubham1";
 
 		return "Hello Shubham Your Code ius ready for commit";
 		
